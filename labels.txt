@@ -1,0 +1,11 @@
+0 Cursor
+1 LeftClick
+2 RightClick
+3 DoubleClick
+4 ScreenCapture
+5 ScrollUp
+6 ScrollDown
+7 VolumeUp
+8 VolumeDown
+9 BrightnessUp
+10 BrightnessDown
